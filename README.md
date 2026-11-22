@@ -127,8 +127,13 @@ earthengine authenticate
 
 ## Citation
 
-> Zapata M.B. et al. (in review). Above-ground carbon dynamics in the Chocó Andino Biosphere Reserve, Ecuador. *Ecological Indicators*. ECOLIND-60399.
-
+> Calderón-Loor, M., Cuesta, F., Zapata, M.B., Bar, I., Wang, H., 
+> Proaño-Castro, C., Andrade, F., Mena, C.F. (in review). 
+> Elevation and canopy structure shape above-ground carbon dynamics 
+> in tropical Andean montane forests. *Ecological Indicators*. 
+> ECOLIND-60399.
+> 
+> For further information contact: mzapata@usfq.edu.ec
 ---
 
 ## License
