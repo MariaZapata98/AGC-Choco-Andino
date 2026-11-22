@@ -1,0 +1,40 @@
+{
+  "scenario": "S2",
+  "weak_label": 15,
+  "palsar": true,
+  "fcd": true,
+  "features": [
+    "PC1",
+    "PC2",
+    "NDVI_mean",
+    "GNDVI_mean",
+    "EVI_mean",
+    "elevation_srtm",
+    "slope_srtm",
+    "fcd_average_period",
+    "HH_mean",
+    "HV_mean"
+  ],
+  "pca_bands": [
+    "B_mean",
+    "G_mean",
+    "R_mean",
+    "NIR_mean",
+    "SWIR1_mean",
+    "SWIR2_mean"
+  ],
+  "pca_components": [
+    "PC1",
+    "PC2"
+  ],
+  "pca_file": "D:\\PAPER-ECOLIN\\DATA\\interim\\pca_landsat.joblib",
+  "hyperparameters": {
+    "max_depth": null,
+    "max_features": "sqrt",
+    "min_samples_leaf": 1,
+    "n_estimators": 500
+  },
+  "n_train": 916,
+  "selection": "lowest internal-test RMSE",
+  "internal_test_RMSE": 53.53041049891875
+}

@@ -1,0 +1,7 @@
+source,excluded_wl,test_interno,train,of which buffer,temporal_validation
+RBCA,0,42,31,32,20
+RBA,0,10,48,0,0
+Pantropical,0,74,380,0,0
+GEDI,0,48,199,8,0
+Weak labels,5,0,79,0,0
+Total,5,174,737,40,20
